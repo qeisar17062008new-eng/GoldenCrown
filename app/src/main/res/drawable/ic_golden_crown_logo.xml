@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Outer Gold Emblem Circle -->
+    <path
+        android:fillColor="#17243A"
+        android:pathData="M50,50m-48,0a48,48 0 1,0 96,0a48,48 0 1,0 -96,0" />
+
+    <path
+        android:strokeColor="#C9A44C"
+        android:strokeWidth="2"
+        android:pathData="M50,50m-45,0a45,45 0 1,0 90,0a45,45 0 1,0 -90,0" />
+
+    <!-- Crown Body -->
+    <path
+        android:fillColor="#C9A44C"
+        android:pathData="M25,65 L75,65 L72,40 L62,51 L50,30 L38,51 L28,40 Z" />
+
+    <!-- Crown Inner Shading -->
+    <path
+        android:fillColor="#B58E38"
+        android:pathData="M28,40 L38,51 L50,30 L62,51 L72,40 L69,65 L31,65 Z" />
+
+    <!-- Crown Base Band -->
+    <path
+        android:fillColor="#FAF5E8"
+        android:pathData="M25,66 H75 V71 H25 Z" />
+
+    <!-- Jewels -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,38m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,28m-3.5,0a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,38m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+</vector>

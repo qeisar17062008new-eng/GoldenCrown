@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 5-Point Royal Gold Crown Body -->
+    <path
+        android:fillColor="#C9A44C"
+        android:pathData="M22,72 L86,72 L88,38 L74,54 L64,30 L54,48 L54,20 L44,48 L34,30 L24,54 L18,38 Z" />
+
+    <!-- Metallic Gold Crown Shading -->
+    <path
+        android:fillColor="#8A6B22"
+        android:pathData="M24,54 L34,30 L44,48 L54,20 L54,48 L64,30 L74,54 L86,72 L22,72 Z" />
+
+    <!-- Crown Base Band -->
+    <path
+        android:fillColor="#FAF5E8"
+        android:pathData="M22,74 H86 V79 H22 Z" />
+
+    <!-- Diamond Jewels on 5 Peak Orbs -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,36m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,28m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,28m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M88,36m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <!-- Ruby Jewels on Base Band -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M34,76.5m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,76.5m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M74,76.5m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+</vector>
